@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Cleaned up the initial boilerplate to remove un-necessary files, this allows for a clean start for a new project.
+To get up and running, create a new directory, then cd into new directory. Drag and drop folders into new directory and remove the react-boilerplate folder, after that you are good to go. Happy Hacking!!
 
 ## Available Scripts
 
