@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I also cleaned up the initial boilerplate to remove un-necessary file, this allows for a clean start for a new project.
 
 ## Available Scripts
 
